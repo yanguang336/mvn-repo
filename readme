@@ -1,2 +1,2 @@
-
-mvn install:install-file -Dfile=
+mvn install -Dfile=
+然后把jar包替换掉
