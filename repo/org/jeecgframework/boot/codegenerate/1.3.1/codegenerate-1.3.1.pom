@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.jeecgframework.boot</groupId>
+  <artifactId>codegenerate</artifactId>
+  <version>1.3.1</version>
+  <name>codegenerate</name>
+  <url>http://www.jeecg.com</url>
+	
+  <description>JeecgBoot代码生成器核心包</description>
+  
+	<licenses>
+		<license>
+			<name>The Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+	
+	<scm>  
+      <connection>scm:git:https://github.com/zhangdaiscott/jeecg-boot.git</connection>
+      <developerConnection>scm:git:https://github.com/zhangdaiscott/jeecg-boot.git</developerConnection>  
+      <url>https://github.com/zhangdaiscott/jeecg-boot</url>  
+	</scm>
+	
+	<developers>
+        <developer>
+            <name>jeecg</name>
+            <email>jeecgos@163.com</email>
+        </developer>
+    </developers>
+
+</project>
