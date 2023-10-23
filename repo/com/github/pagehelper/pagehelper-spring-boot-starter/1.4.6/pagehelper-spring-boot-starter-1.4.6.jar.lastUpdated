@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 19:05:29 CST 2023
+@default-public-https\://maven.aliyun.com/repository/public/.lastUpdated=1691578979832
+http\://artifactory.jd.com/libs-snapshots/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:jar\:1.4.6 from/to snapshots (http\://artifactory.jd.com/libs-snapshots)\: artifactory.jd.com
+@default-maven2-http\://repo1.maven.org/maven2/.lastUpdated=1691578979822
+http\://artifactory.jd.com/libs-snapshots-local/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:jar\:1.4.6 from/to snapshots-local (http\://artifactory.jd.com/libs-snapshots-local)\: artifactory.jd.com
+http\://artifactory.jd.com/libs-releases-local/.lastUpdated=1692183925655
+http\://artifactory.jd.com/libs-releases-local/.error=
+bf55d6198734033d4bb57478c181f8b69d05bb89@default-snapshots-http\://artifactory.jd.com/libs-snapshots/.lastUpdated=1691578979814
+@default-snapshots-local-http\://artifactory.jd.com/libs-snapshots-local/.lastUpdated=1691578979805
+http\://artifactory.jd.com/libs-releases/.lastUpdated=1692183929032
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:jar\:1.4.6 from/to maven2 (http\://repo1.maven.org/maven2/)\: repo1.maven.org
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:jar\:1.4.6 from/to public (https\://maven.aliyun.com/repository/public)\: maven.aliyun.com

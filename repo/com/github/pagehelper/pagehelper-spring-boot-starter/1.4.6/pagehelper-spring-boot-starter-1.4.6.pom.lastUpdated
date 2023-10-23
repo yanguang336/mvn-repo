@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 16 18:52:52 CST 2023
+https\://maven.aliyun.com/repository/public/.lastUpdated=1692183172374
+http\://artifactory.jd.com/libs-snapshots/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:pom\:1.4.6 from/to snapshots (http\://artifactory.jd.com/libs-snapshots)\: Transfer failed for http\://artifactory.jd.com/libs-snapshots/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.pom 503 Service Unavailable
+@default-maven2-http\://repo1.maven.org/maven2/.lastUpdated=1692183172003
+1ed60ab6666f905f87b707812f883edf6d35a693@default-central-http\://artifactory.jd.com/libs-releases/.lastUpdated=1692183151381
+http\://artifactory.jd.com/libs-releases/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:pom\:1.4.6 from/to central (http\://artifactory.jd.com/libs-releases)\: Transfer failed for http\://artifactory.jd.com/libs-releases/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.pom 503 Service Unavailable
+http\://artifactory.jd.com/libs-snapshots-local/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:pom\:1.4.6 from/to snapshots-local (http\://artifactory.jd.com/libs-snapshots-local)\: Transfer failed for http\://artifactory.jd.com/libs-snapshots-local/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.pom 503 Service Unavailable
+@default-central-local-http\://artifactory.jd.com/libs-releases-local/.lastUpdated=1692183141372
+http\://artifactory.jd.com/libs-releases-local/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:pom\:1.4.6 from/to central-local (http\://artifactory.jd.com/libs-releases-local)\: Transfer failed for http\://artifactory.jd.com/libs-releases-local/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.pom 503 Service Unavailable
+bf55d6198734033d4bb57478c181f8b69d05bb89@default-snapshots-http\://artifactory.jd.com/libs-snapshots/.lastUpdated=1692183171399
+@default-snapshots-local-http\://artifactory.jd.com/libs-snapshots-local/.lastUpdated=1692183161388
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.github.pagehelper\:pagehelper-spring-boot-starter\:pom\:1.4.6 from/to maven2 (http\://repo1.maven.org/maven2/)\: Transfer failed for http\://repo1.maven.org/maven2/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.pom 501 HTTPS Required
